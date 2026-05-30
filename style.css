@@ -3,5 +3,8 @@ h1 {
 }
 
 body {
-    background-color: rgb(88, 61, 139);
+    background-image: url(images/galaxy\ image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
